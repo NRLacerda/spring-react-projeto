@@ -1,0 +1,5 @@
+Isso é apenas um bloco de notas para eu não esquecer como fazer certas ações.
+
+- para executar localmente o index é necessário utilizar o bash e digitar
+~ÿarn dev"
+o site vai ficar disponível em localhost:3000
